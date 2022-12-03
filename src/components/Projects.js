@@ -18,6 +18,7 @@ export const Projects = () => {
       description: 'A digital version of chines chess',
       imgUrl: projImg1,
       link: 'https://github.com/Maybenex1ime/Something_Personal',
+      alt: 'xiangQi',
     },
     {
       title: 'Multimedia',
@@ -25,6 +26,7 @@ export const Projects = () => {
           'to create videos with effects and sound',
       imgUrl: projImg2,
       link: 'https://drive.google.com/drive/folders/1yHafxMJzN5mcvrmdEaaEyT5RpenVEWDj',
+      alt: 'multimedia',
     },
     {
       title: 'AI Systems',
@@ -32,6 +34,7 @@ export const Projects = () => {
           'which help learn basic AI',
       imgUrl: projImg3,
       link: 'https://github.com/Maybenex1ime/AI_System_ITMO',
+      alt: 'AI',
     },
   ];
 
@@ -41,18 +44,21 @@ export const Projects = () => {
       description: 'An action role-playing game with a non-linear plot choice',
       imgUrl: projImg4,
       link: 'https://store.steampowered.com/app/1937300/Lillusion/',
+      alt: 'lillusion',
     },
     {
       title: 'Emotion Detection',
       description: 'A trained CNN classifier model be used to ' +
           'predicted the various types of emotions of human',
       imgUrl: projImg5,
+      alt: 'neuro',
     },
     {
       title: 'To-do list app',
       description: 'Simple app, where you can plan and tasks in detail',
       imgUrl: projImg6,
       link: 'https://github.com/hieuminhvuu/Alien_list',
+      alt: 'to-do',
     },
   ];
 
