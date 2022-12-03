@@ -9,7 +9,7 @@ export const Footer = () => {
       <Container>
         <Row className="align-items-center">
           <Col size={12} sm={6}>
-            Copyright © 2022 DoManh
+            Copyright © 2023 DoManh
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">

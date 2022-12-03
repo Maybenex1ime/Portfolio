@@ -85,7 +85,7 @@ export const Banner = () => {
                       It would be pleased to me to share
                       my passion and apply them to your interesting products
                     </p>
-                    <button size={25} >
+                    <button >
                       <Nav.Link as = {Link} to="/skills"
                         className={activeLink === 'skills' ?
                             'active navbar-link' : 'navbar-link'}
